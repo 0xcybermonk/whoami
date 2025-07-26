@@ -2,7 +2,7 @@
 
 This repository serves as a hub for my ongoing cybersecurity projects, research, and learning journey. As a **CCNA certified** professional working as a **Jr. Network and System Administrator**, I bring a strong foundation in network operations and system management to my cybersecurity pursuits. I'm deeply interested in **network security** and **ethical hacking**, and I'll be using this space to document my progress, share code, and explore various tools and techniques.
 
-You can also follow my cybersecurity insights and articles on my [Medium](https://cyb3rm0nk.medium.com/).
+You can also follow my cybersecurity insights and articles on my [Medium](https://cyb3rmonk.medium.com/).
 
 ---
 
