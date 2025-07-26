@@ -2,6 +2,8 @@
 
 This repository serves as a hub for my ongoing cybersecurity projects, research, and learning journey. As a **CCNA certified** professional working as a **Jr. Network and System Administrator**, I bring a strong foundation in network operations and system management to my cybersecurity pursuits. I'm deeply interested in **network security** and **ethical hacking**, and I'll be using this space to document my progress, share code, and explore various tools and techniques.
 
+You can also follow my cybersecurity insights and articles on my [Medium](https://cyb3rm0nk.medium.com/).
+
 ---
 
 ## What You'll Find Here
@@ -14,7 +16,4 @@ This repository serves as a hub for my ongoing cybersecurity projects, research,
 
 
 
-<!---
-0xcybermonk/0xcybermonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
