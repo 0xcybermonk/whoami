@@ -62,10 +62,10 @@ My practical experience includes contributing to critical infrastructure project
 My GitHub repositories showcase my ongoing learning and practical projects:
 
 * **CTF Event Organization & Challenge Creation:** Successfully organized and conducted a Capture The Flag (CTF) event, developing challenges across diverse cybersecurity domains including:
-    * **Linux Privilege Escalation:** [Link to your Linux PrivEsc CTF Repo/Writeup]
-    * **PHP File Upload Vulnerability:** [Link to your PHP File Upload CTF Repo/Writeup]
-    * **AI Prompt Engineering:** [Link to your AI Prompt Engineering CTF Repo/Writeup]
-    * **SQL Injection (SQLi):** [Link to your SQLi CTF Repo/Writeup]
+    * **Linux Privilege Escalation:** 
+    * **PHP File Upload Vulnerability:** 
+    * **AI Prompt Engineering:** 
+    * **SQL Injection (SQLi):** 
     This demonstrates leadership, deep technical understanding, and the ability to design engaging security scenarios.
 * **CTF Participation:** Actively solved Capture The Flag (CTF) challenges on TryHackMe, Hack The Box, and Hacking Hub, honing practical offensive and defensive security skills.
 * **Network Security Implementations:** Practical implementations of firewall rules, IDS/IPS analysis, secure network designs, and VPN setups, leveraging my CCNA expertise.
