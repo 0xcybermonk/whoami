@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Cyb3rm0nk!
 
-I'm a **CCNA-certified Jr. Network & System Administrator** with a passion for **cybersecurity**, combining network management, system administration, and ethical hacking. I love learning by doing — whether it’s solving CTF challenges, building secure networks, or writing technical blogs.  
+I'm a **CCNA-certified Jr. Network & System Administrator** with a passion for **cybersecurity**, combining network management, system administration, and ethical hacking. I love learning by doing — whether it’s solving CTF challenges, building secure networks, or writing technical blogs.  Moreover, I have over a year of experience providing technical support, assisting users, troubleshooting network and system issues, and ensuring the smooth operation of IT infrastructure. This experience has strengthened my problem-solving skills and practical knowledge in real-world environments.
 
 ---
 
