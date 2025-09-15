@@ -7,7 +7,7 @@ I'm a **CCNA-certified Jr. Network & System Administrator** with a passion for *
 ### 🌟 About Me
 - **Current Role:** Jr. Network & System Administrator  
 - **Certifications:** CCNA  
-- **Interests:** Network Security, Ethical Hacking, Secure System Administration, Digital Forensics, DevSecOps  
+- **Interests:** Network Security, Ethical Hacking, Secure System Administration,
 - **Learning Platforms:** TryHackMe, Hack The Box, Hacking Hub  
 - **Writing & Blogging:** [Medium](https://medium.com/@cyb3rmonk)  
 
@@ -16,21 +16,19 @@ I'm a **CCNA-certified Jr. Network & System Administrator** with a passion for *
 ### 🛠️ Skills
 
 **Networking & Infrastructure**  
-- TCP/IP, DNS, DHCP, VPNs  
-- Routers (Mikrotik), Switches, Firewalls (Sophos/Fortigate), Access Points  
-- Network Design, Nginx Reverse Proxy, Mail Server Setup, Cacti Monitoring  
+- TCP/IP, DNS, DHCP, VPNs, DHCP, SAMBA and others. 
+- Routers (Mikrotik), Switches, Firewalls (Sophos/Fortigate), Access Points.  
+- Network Design, Nginx Reverse Proxy, Mail Server Setup, Cacti Monitoring.  
 
 **Cybersecurity**  
-- Tools: Nmap, Wireshark, Metasploit, Kali Linux suite  
-- Expertise: Penetration Testing, Vulnerability Assessment, Server Hardening, Patch Management, CTF Challenge Creation  
+- Tools: Nmap, Wireshark, Metasploit, ffuf, LinPeas, Netcat, Hydra, John, Nuclei, Nessus, BurpSuite, Caido, Nessus,   
+- Expertise: Penetration Testing, Vulnerability Assessment, Server Hardening, Patch Management, CTF Challenge Creation
+- Concepts: OWASP Top 10, OSI Model & TCP/IP, Network Scanning & Enumeration, Privilege Escalation, Social Engineering, AD Basics and so on. 
+
 
 **System Administration**  
 - Linux (Ubuntu, Kali, CentOS), Windows Server  
-- System Monitoring, Troubleshooting, Automation, VM Deployment  
-
-**Programming & Scripting**  
-- Python, Bash, PowerShell  
-
+- System Monitoring, Troubleshooting, VM Deployment, Driver Installation, Windows File Sharing. 
 ---
 
 ### 💼 Experience Highlights
@@ -44,16 +42,15 @@ I'm a **CCNA-certified Jr. Network & System Administrator** with a passion for *
 
 ### 💡 Projects & CTFs
 - Organized & solved **CTFs** with challenges in Linux privilege escalation, PHP uploads, SQLi, and AI prompt engineering  
-- Implemented **firewall rules, IDS/IPS monitoring, VPNs**, and secure network designs  
-- Developed **custom scripts** for Nmap, Wireshark, Metasploit  
-- Exploring **DevSecOps** to integrate security seamlessly into development  
+- Implemented **firewall rules, VPNs**, and secure network designs
+- Kioptrix Level 1 Pentest: Conducted a comprehensive pentest, leveraging tools like Nmap and Metasploit for reconnaissance, vulnerability exploitation, and privilege escalation; documented all findings in a professional report.
+- Social Engineering Simulation: Developed a Docker-based web application to simulate a phishing attack, capturing user credentials to demonstrate how easily personal data can be harvested and to highlight the importance of password hygiene and security awareness.
 
 ---
 
 ### 📝 Blogs & Publications
-I regularly document my cybersecurity journey and lessons learned:  
-- **THM Walkthroughs:** Step-by-step guides for TryHackMe machines  
-- **Cybersecurity Tutorials:** Network hardening, WordPress security, LFI/RCE exploitation  
+I often document my cybersecurity journey and lessons learned:  
+- **THM Walkthroughs:** Step-by-step guides for TryHackMe machines   
 - **Medium Articles:** Published on [Medium](https://medium.com/@cyb3rmonk) sharing insights, CTF solutions, and hands-on tutorials  
 
 ---
